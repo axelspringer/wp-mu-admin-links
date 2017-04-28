@@ -9,7 +9,7 @@
  */
 function customAdminToolbarLink($wpAdminBar)
 {
-    if (!defined(ASSE_ADMIN_LINKS)) {
+    if (!defined('ASSE_ADMIN_LINKS')) {
         return;
     }
 
