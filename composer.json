@@ -1,5 +1,5 @@
 {
-    "name": "muplugin/asse-admin-links",
+    "name": "axelspringer/wp-mu-admin-links",
     "type": "wordpress-muplugin",
     "description": "Allows to display links in the admin bar",
     "keywords": [
@@ -13,11 +13,15 @@
         {
             "name": "Sebastian Döll",
             "homepage": "http://www.axelspringer.de"
+        },
+        {
+            "name": "Mathias Witt",
+            "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-admin-links",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-admin-links",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "asse-admin-links"
+        "installer-name": "wp-mu-admin-links"
     }
 }
